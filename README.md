@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Atria Putri**, a data enthusiast,  using this profile to show my data analysis, data visualization, and beginner-level data science assignments + self-projects portfolio. 
+
+- 🌱 I’m currently learning **SQL, Python, and R**
+- ✨ Reach me out through my profile: https://linkedin.com/in/atrria
+
 <!--
 **atriap/atriap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
