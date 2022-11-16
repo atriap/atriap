@@ -2,7 +2,7 @@
 
 My name is **Atria Putri**, a fresh graduate also a data enthusiast,  using this profile to show my data analysis, data visualization, and beginner-level data science portfolio. I took Information Systems concentration while pursuing my Accounting Master's Degree to learn data, so these projects are mainly from assignments or my self-made project. 
 
-- 🌱 I’m always on learning mode -->  **SQL, Python, and R** (self-taught with DataCamp and Hackerrank guides and syllabus
+- 🌱 I’m always on learning mode -->  **SQL, Python, and R** (self-taught with DataCamp and Hackerrank guides and syllabus)
 - ✨ Reach me out through my profile: https://linkedin.com/in/atrria
 
 
